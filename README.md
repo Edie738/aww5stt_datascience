@@ -1,1 +1,1 @@
-# aww5stt_datascience
+# My data science projects
